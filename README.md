@@ -55,10 +55,6 @@ Linear programming model to minimize weekly operating costs for Tesla's post-sal
 
 ---
 
-## Let's Connect
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanish-j)
-
----
-
-*Currently seeking Data Analyst / Business Analyst internship opportunities for Summer 2026*
