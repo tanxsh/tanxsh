@@ -25,31 +25,31 @@ I build sustainable data-driven solutions at the intersection of Analytics, Mach
 
 ## Featured Projects
 
-### [ClauseSense — Vendor Contract Copilot](https://github.com/tanxsh/clausesense-contract-copilot)
+### [ClauseSense — Vendor Contract Copilot](https://github.com/tanxsh/ClauseSense-Contract-Copilot)
 Fully local multi-agent AI system that reviews vendor contracts like a Legal Ops assistant. Flags risks with clause evidence, generates plain-English summaries, drafts negotiation emails, and enables semantic clause search — all running on-device via Ollama + ChromaDB.
 `Python` `LangChain` `ChromaDB` `Streamlit` `Ollama`
 
-### [Multi-Agent RAG Research Assistant](https://github.com/tanxsh/multi-agent-rag-assistant)
+### [Multi-Agent RAG Research Assistant](https://github.com/tanxsh/Multi-Agent-RAG-Research-Assistant)
 LangGraph-powered 5-agent pipeline for PDF Q&A with intelligent routing and self-correction. Routes between document retrieval and general knowledge; Analyzer agent quality-gates retrieved chunks to prevent hallucination.
 `Python` `LangGraph` `Llama 3.2` `ChromaDB` `Streamlit`
 
-### [Airbnb California Market Analysis](https://github.com/tanxsh/airbnb-california-ml-analysis)
+### [Airbnb California Market Analysis](https://github.com/tanxsh/Machine-Learning-Python-Project)
 Demand driver prediction and listing segmentation across 8 California markets. Proves that cluster-specific XGBoost models outperform a global baseline — Airbnb is not a single unified market.
 `Python` `XGBoost` `K-Means` `DBSCAN` `scikit-learn`
 
-### [Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/analytics-showdown-nazava)
+### [Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/2025-SCU-Analytics-Showdown)
 End-to-end sales forecasting pipeline for a social enterprise in Indonesia. Gradient Boosting model with 15 engineered features across Shopee e-commerce data (orders, ads, traffic, product funnel).
 `Python` `Gradient Boosting` `pandas` `scikit-learn`
 
-### [California Traffic Collision Analysis](https://github.com/tanxsh/data-analytics-python-final-project)
+### [California Traffic Collision Analysis](https://github.com/tanxsh/Data-Analytics-Python-Project)
 EDA of 2M+ collision records across all 58 California counties (2020–2025). Geographic, demographic, and behavioral pattern analysis with 2026 statewide forecast using Linear Regression.
 `Python` `pandas` `seaborn` `scikit-learn`
 
-### [Stochastic Optimal Control of Biodiesel Production](https://github.com/tanxsh/stochastic-optimal-control-biodiesel)
+### [Stochastic Optimal Control of Biodiesel Production](https://github.com/tanxsh/Stochastic-Optimal-Control-of-Biodiesel-Production)
 B.Tech final year project. Optimal temperature profile for a batch reactor under feedstock uncertainty using SDEs, Itô's Calculus, Stochastic Maximum Principle, and RKF numerical integration.
 `MATLAB` `Stochastic Modeling` `Optimal Control`
 
-### [Tesla Support Staffing Optimization](https://github.com/tanxsh/optimization-with-r)
+### [Tesla Support Staffing Optimization](https://github.com/tanxsh/CaseStudy-Optimization-of-Staffing-at-Tesla)
 Linear programming model to minimize weekly operating costs for Tesla's post-sales support center. Proves bilingual agents reduce costs by 9% vs. separate language pools.
 `R` `lpSolve` `Linear Programming`
 
