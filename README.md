@@ -1,4 +1,4 @@
-# Hi, I'm Tanish!
+# Hi, I'm Tanish 👋🏽
 
 **MS Business Analytics @ Santa Clara University** (Dec 2026)  
 B.Tech Electronics & Instrumentation Engineering — Manipal Institute of Technology
