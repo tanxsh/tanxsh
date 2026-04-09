@@ -3,7 +3,7 @@
 **MS Business Analytics @ Santa Clara University** (Dec 2026)  
 B.Tech Electronics & Instrumentation Engineering — Manipal Institute of Technology
 
-I build sustainable data-driven solutions at the intersection of Analytics, Machine Learning and Generative AI.
+I build sustainable data-driven solutions at the intersection of Analytics, Machine Learning and Generative AI. 
 
 ---
 
