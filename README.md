@@ -12,9 +12,13 @@ I build sustainable data-driven solutions at the intersection of Analytics, Mach
 **Programming Languages:** Python, SQL, R, MATLAB, C, C++
 
 **Data Analysis & Modeling:** Statistical Analysis, Stochastic Modeling, Predictive Modeling, Machine Learning (ML), Business Intelligence (BI), Feature Engineering, ETL, Classification, Regression, Clustering, Ensemble Methods (Random Forest, Gradient Boosting), Neural Networks, Natural Language Processing (NLP), Sentiment Analysis, LangChain, LangGraph, Ollama
+
 **Libraries & Data Visualization:** NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn, Tableau
+
 **Databases & Tools:** Jupyter Notebook, MySQL, RStudio, MS Excel
+
 **Vector & Storage:** ChromaDB, SQLite
+
 **Systems:** Linux/UNIX, Shell Scripting, SSH, MobaXterm
 
 ---
