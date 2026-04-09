@@ -1,4 +1,4 @@
-# Hi, I'm Tanish 👋
+# Hi, I'm Tanish!
 
 **MS Business Analytics @ Santa Clara University** (Dec 2026)  
 B.Tech Electronics & Instrumentation Engineering — Manipal Institute of Technology
@@ -7,7 +7,7 @@ I build sustainable data-driven solutions at the intersection of analytics, mach
 
 ---
 
-## 🔧 What I Work With
+## What I Work With
 
 **Programming Languages:** Python, SQL, R, MATLAB, C, C++
 **Data Analysis & Modeling:** Statistical Analysis, Stochastic Modeling, Predictive Modeling, Machine Learning (ML), Business Intelligence (BI), Feature Engineering, ETL, Classification, Regression, Clustering, Ensemble Methods (Random Forest, Gradient Boosting), Neural Networks, Natural Language Processing (NLP), Sentiment Analysis, LangChain, LangGraph, Ollama
