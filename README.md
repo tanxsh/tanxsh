@@ -41,7 +41,7 @@ LangGraph-powered 5-agent pipeline for PDF Q&A with intelligent routing and self
 Demand driver prediction and listing segmentation across 8 California markets. Proves that cluster-specific XGBoost models outperform a global baseline — Airbnb is not a single unified market.
 `Python` `XGBoost` `K-Means` `DBSCAN` `scikit-learn`
 
-### [SCU Fall 2025 Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/2025-SCU-Analytics-Showdown)
+### [🥉SCU Fall 2025 Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/2025-SCU-Analytics-Showdown)
 End-to-end sales forecasting pipeline for a social enterprise in Indonesia. Gradient Boosting model with 15 engineered features across Shopee e-commerce data (orders, ads, traffic, product funnel).
 `Python` `Gradient Boosting` `pandas` `scikit-learn`
 
