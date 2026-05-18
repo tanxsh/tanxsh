@@ -25,6 +25,10 @@ I build sustainable data-driven solutions at the intersection of Analytics, Mach
 
 ## Featured Projects
 
+### [SCU Spring 2026 Analytics Showdown — Roots & Returns](https://github.com/tanxsh/SCU-Analytics-Showdown-Spring-2026)
+Winning submission for the SCU Leavey School of Business Analytics Showdown. Two-stage XGBoost hurdle model predicting farmer non-seller risk for Good Nature Agro across 22,597 farmers in Zambia. Flags 27% of farmers to catch 74% of all non-sellers.
+`Python` `XGBoost` `SHAP` `Streamlit` `scikit-learn`
+
 ### [ClauseSense — Vendor Contract Copilot](https://github.com/tanxsh/ClauseSense-Contract-Copilot)
 Fully local multi-agent AI system that reviews vendor contracts like a Legal Ops assistant. Flags risks with clause evidence, generates plain-English summaries, drafts negotiation emails, and enables semantic clause search — all running on-device via Ollama + ChromaDB.
 `Python` `LangChain` `ChromaDB` `Streamlit` `Ollama`
@@ -37,7 +41,7 @@ LangGraph-powered 5-agent pipeline for PDF Q&A with intelligent routing and self
 Demand driver prediction and listing segmentation across 8 California markets. Proves that cluster-specific XGBoost models outperform a global baseline — Airbnb is not a single unified market.
 `Python` `XGBoost` `K-Means` `DBSCAN` `scikit-learn`
 
-### [Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/2025-SCU-Analytics-Showdown)
+### [SCU Fall 2025 Analytics Showdown — Nazava Water Filters](https://github.com/tanxsh/2025-SCU-Analytics-Showdown)
 End-to-end sales forecasting pipeline for a social enterprise in Indonesia. Gradient Boosting model with 15 engineered features across Shopee e-commerce data (orders, ads, traffic, product funnel).
 `Python` `Gradient Boosting` `pandas` `scikit-learn`
 
