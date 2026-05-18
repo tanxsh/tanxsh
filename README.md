@@ -25,7 +25,7 @@ I build sustainable data-driven solutions at the intersection of Data Science an
 
 ## Featured Projects
 
-### [SCU Spring 2026 Analytics Showdown — Good Nature Agro](https://github.com/tanxsh/SCU-Analytics-Showdown-Spring-2026)
+### [🥇SCU Spring 2026 Analytics Showdown — Good Nature Agro](https://github.com/tanxsh/SCU-Analytics-Showdown-Spring-2026)
 Winning submission for the SCU Leavey School of Business Analytics Showdown. Two-stage XGBoost hurdle model predicting farmer non-seller risk for Good Nature Agro across 22,597 farmers in Zambia. Flags 27% of farmers to catch 74% of all non-sellers.
 `Python` `XGBoost` `SHAP` `Streamlit` `scikit-learn`
 
