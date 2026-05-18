@@ -3,7 +3,7 @@
 **MS Business Analytics @ Santa Clara University** (Dec 2026)  
 B.Tech Electronics & Instrumentation Engineering — Manipal Institute of Technology
 
-I build sustainable data-driven solutions at the intersection of Analytics, Machine Learning and Generative AI. 
+I build sustainable data-driven solutions at the intersection of Data Science and AI. 
 
 ---
 
@@ -11,11 +11,11 @@ I build sustainable data-driven solutions at the intersection of Analytics, Mach
 
 **Programming Languages:** Python, SQL, R, MATLAB, C, C++
 
-**Data Analysis & Modeling:** Statistical Analysis, Stochastic Modeling, Predictive Modeling, Machine Learning (ML), Business Intelligence (BI), Feature Engineering, ETL, Classification, Regression, Clustering, Ensemble Methods (Random Forest, Gradient Boosting), Neural Networks, Natural Language Processing (NLP), Sentiment Analysis, LangChain, LangGraph, Ollama
+**Data Analysis & Modeling:** Statistical Analysis, Stochastic Modeling, Predictive Modeling, Machine Learning (ML), Business Intelligence (BI), Feature Engineering, Hyperparameter Tuning, ETL, Classification, Regression, Clustering, Ensemble Methods (Random Forest, Gradient Boosting), Neural Networks, Time Series Analysis, Natural Language Processing (NLP), Sentiment Analysis, Deep Learning, A/B Testing, Causal Inference, Anomaly Detection, Retrieval-Augmented Generation (RAG), Agentic AI Workflows
 
-**Libraries & Data Visualization:** NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn, Tableau
+**Libraries & Data Visualization:** NumPy, Pandas, Scikit-learn, TensorFlow/Keras, PyTorch, Matplotlib, Seaborn, Tableau, LangChain, Streamlit, Hugging Face (familiar)
 
-**Databases & Tools:** Jupyter Notebook, MySQL, RStudio, MS Excel
+**Databases & Tools:** Jupyter Notebook, Data Modeling, Schema Design, Vector Databases, MySQL, RStudio, MS Excel
 
 **Vector & Storage:** ChromaDB, SQLite
 
